@@ -1,0 +1,4 @@
+This a sample .txt file that contains the word "Machine Learning" and "Hello World"
+
+Machine Learning
+Hello World

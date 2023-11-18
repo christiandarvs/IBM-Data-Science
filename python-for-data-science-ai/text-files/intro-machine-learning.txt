@@ -1,0 +1,11 @@
+Introduction to Machine Learning
+
+Machine learning is a field of artificial intelligence that enables computers to learn and make predictions or decisions without being explicitly programmed. It focuses on the development of algorithms that can access data, learn from it, and make informed predictions.
+
+Three types of Machine Learning:
+
+1. Supervised Learning: This involves training a model on a labeled dataset. The algorithm learns from input-output pairs to make predictions or classifications on new, unseen data.
+
+2. Unsupervised Learning: In contrast to supervised learning, unsupervised learning deals with unlabeled data. The algorithm learns patterns, structures, or relationships in the data without explicit guidance.
+
+3. Reinforcement Learning: This learning paradigm involves an agent interacting with an environment, learning to make sequences of decisions to achieve a goal. It receives feedback in the form of rewards or penalties based on its actions.
